@@ -17,3 +17,7 @@ app.get("/contact", (req, res) => {
 app.listen(port, () => {
   console.log(`Server started on port ${port}`);
 });
+// https://youtu.be/FkwZfFT_v9Q?si=9XMWOnuUNaLN0aWL
+//Link if in case error happen while running nodemon 
+//Run Window Powershell as Administrator,then run Get-ExecutionPolicy 
+//Set-ExecutionPolicy Unrestricted 

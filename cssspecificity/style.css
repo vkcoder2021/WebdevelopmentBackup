@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1{
+    color:Green  
+      !important;
+  }
+  a:link {
+    color:red;
+  }
+  
+  
+  .Headline{
+    color:Black;
+  }
+  
+  h2[style]{
+    color:white;
+  }
+  .Headline{
+    color:Blue;
+  }
+  
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+  }
+  .header{
+    text-align: center;
+  }

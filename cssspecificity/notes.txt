@@ -1,0 +1,17 @@
+Hello Coders 
+In this video  i will talk about css Specificity .
+What is Css Specificity ?
+Ans-->You can understand this as preferences that browser will give to before applying specified css whether IDs or class should be given preferences or what .
+
+Important thing to remember order of preferences.
+i)IDs
+ii)Classes,attributes &Pseudo Classes
+iii)Element ,Pseudo Element.
+Points to discuss in this video 
+1)Between inline ,internal ,external styling which one will be given more preferences or have more specificity .
+2)Case of IDS and Class 
+3)What is Pseudo Class?
+4)What is Pseudo Element ?
+5)Case of Classes ,attributes and id .
+6)Overriding of css using !important .
+
